@@ -38,7 +38,7 @@ Overview
    </table>
 
 
-**Detecting only product and body**
+**Detecting product and body**
 
 
 <table border="0">
